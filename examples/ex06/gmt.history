@@ -1,0 +1,10 @@
+# GMT 5 Session common arguments shelf
+BEGIN GMT 5.3.1
+B	xa2000f1000+lTopography (m)ya10f5+lFrequency+u %WSne+tHistograms+glightblue
+J	X
+JX	X4.8i/2.4i
+R	-6000/0/0/30
+X	-0.5i
+Y	5.0i
+L	2
+END
